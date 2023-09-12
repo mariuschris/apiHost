@@ -1,0 +1,21 @@
+{
+  "name": "apihost",
+  "version": "1.0.0",
+  "description": "Create and host an endpoint using any programming language of your choice.",
+  "main": "two GET request query parameters and return specific information in JSON format.Requirements",
+  "scripts": {
+    "test": " +/-2)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ob/main/file_name.ext\","
+  },
+  "keywords": [
+    "0"
+  ],
+  "author": "Marius_UC",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
